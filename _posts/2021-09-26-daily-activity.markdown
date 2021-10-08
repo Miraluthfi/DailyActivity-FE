@@ -33,9 +33,9 @@ categories: dsm-sprint
 | 27-09-2021 | Membuat blog jurnal Daily Activity menggunakan jekyll | - | - | [Daily Activity FE](https://miraluthfi.github.io/DailyActivity-FE/) |
 | 28-09-2021 | Melanjutkan progress desain ui dari wireframes ke konten misal warna, layout dan lain-lain. | - | - | - |
 | 1-10-2021 | Report project minggu ketiga | - | - | - |
-| 4-10-2021 | Explore mencari referensi code untuk sign in dan sign out | - | - | - |
-| 5-10-2021 | Mencoba implementasi code dari template sign out, masih dalam bentuk main.js belum main.ts | - | - | - |
-| 7-10-2021 | Mencoba mengubah code main.js menjadi main.ts terdapat blocker hasilnya tidak sama seperti main.js. Kemudian mencari lagi template di bootstrap mengenai sign out, lalu mencoba langsung eksekusi dan tampilannya belum sesuai juga masih ada yang perlu di perbaiki tapi belum tahu dimananya.| blocker di main.ts | Setelah mencari di internet masih belum solve, kemudian tanya mbak Ira dan dikasih referensi juga. | [Cara importing from js to ts](https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html) |
+| 4-10-2021 | Explore mencari referensi code untuk sign in dan sign up | - | - | - |
+| 5-10-2021 | Mencoba implementasi code dari template sign up, masih dalam bentuk main.js belum main.ts | - | - | - |
+| 7-10-2021 | Mencoba mengubah code main.js menjadi main.ts terdapat blocker hasilnya tidak sama seperti main.js. Kemudian mencari lagi template di bootstrap mengenai sign up, lalu mencoba langsung eksekusi dan tampilannya belum sesuai juga masih ada yang perlu di perbaiki tapi belum tahu dimananya.| blocker di main.ts | Setelah mencari di internet masih belum solve, kemudian tanya mbak Ira dan dikasih referensi juga. | [Cara importing from js to ts](https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html) |
 
 
 
