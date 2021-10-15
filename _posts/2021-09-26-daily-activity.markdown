@@ -36,6 +36,10 @@ categories: dsm-sprint
 | 4-10-2021 | Explore mencari referensi code untuk sign in dan sign up | - | - | - |
 | 5-10-2021 | Mencoba implementasi code dari template sign up, masih dalam bentuk main.js belum main.ts | - | - | - |
 | 7-10-2021 | Mencoba mengubah code main.js menjadi main.ts terdapat blocker hasilnya tidak sama seperti main.js. Kemudian mencari lagi template di bootstrap mengenai sign up, lalu mencoba langsung eksekusi dan tampilannya belum sesuai juga masih ada yang perlu di perbaiki tapi belum tahu dimananya.| blocker di main.ts | Setelah mencari di internet masih belum solve, kemudian tanya mbak Ira dan dikasih referensi juga. | [Cara importing from js to ts](https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html) |
-
+| 8-10-2021 | Report project minggu keempat, menyelesaikan target namun belum maksimal. | - | - |
+| 9-10-2021 | Menggunakan bootstrapvue dengan vue versi 3, terjadi error di bagian main.ts | error di bagian main.ts | Sudah dicoba masih tetap error dan mencoba ubah versi vue 2 | [Integrate bootstrapVue using TypeScript and Vue3](https://stackoverflow.com/questions/68678238/integrate-bootstrapvue-using-typescript-and-vue3) |
+| 11-10-2021 | explore kembali mengenai vue js dalam penggunaan bootstrapvue, yang sebelumnya hanya menggunakan bootstrap biasa. Ternyata untuk penggunaan bootstrapvue vue versi 3 belum kompatible, hanya vue versi 2 yang sudah kompatible. Jadi membuat folder vue baru dengan versi 2 agar bisa menggunakan bootstrapvue. | - | - | [Setup BootstrapVue With Vue Cli](https://code.luasoftware.com/tutorials/vuejs/setup-bootstrapvue-with-vue-cli/) |
+| 13-10-2021 | Membuat Navbar, Register dan Login menggunakan bootstrapvue dengan vue vesi 2 | - | - |
+| 14-10-2021 | Mencari tahu mengenai integrasi API | masih belum paham | belum solve, masih mencari referensi melalui youtube |
 
 
