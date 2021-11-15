@@ -12,3 +12,7 @@ categories: dsm-sprint
 **`19 Oktober 2021`**
 
 <p style='text-align: justify;'>Hari ini Saya mencoba import Mencari referensi di youtube mengenai integrasi API. Mencoba tanya mas Kholid katanya kalo nge fetch API di javascript terutama VUE pake axios, dan Axios paling enak library buat get API. Dan diberi referensi youtube channel channel Nusendra.com</p>
+
+**`23 Oktober 2021`**
+
+<p style='text-align: justify;'>Hari ini Saya bertanya kembali ke mas Kholid mengenai Integrasi Api register. Mas kholid memberikan contoh integrasi API register. Kemudian Saya mencoba memahami dan menanyakan apa yang belum saya mengerti. Kemudian saya mencoba untuk input ke halaman registernya.</p>
