@@ -33,3 +33,6 @@ categories: dsm-sprint
 
 <p style='text-align: justify;'>Setelah saya install tailwindcss, kemudian saya atur ulang kembali tampilan register dan login. Saya juga mencoba membuat tampilan halaman home dan mencoba mencari referensi kembali mengenai get list product.</p>
 
+**`6 Desember 2021`**
+
+<p style='text-align: justify;'>Saya mencoba membuat tampilan halaman home dan menyelesaikan target get list product. Dan juga mencoba menambahkan data melalui postman. Akhirnya get list product muncul di halaman home.</p>
